@@ -1,0 +1,16 @@
+{
+  "cities": [
+    {
+      "cityName": "Yogyakarta",
+      "country": "Indonesia",
+      "emoji": "🇮🇩",
+      "date": "2024-06-22T03:27:47.598Z",
+      "notes": "",
+      "position": {
+        "lat": "-7.968531211568036",
+        "lng": "110.32735834414187"
+      },
+      "id": 98443205
+    }
+  ]
+}
